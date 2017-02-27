@@ -141,8 +141,8 @@ footer {
   padding: 10px 0;
   text-align: center;
   color: #FFF; }
-
-@media (min-width: 1025px) {
+  
+@media (min-width: 769px) {
   /* Base
   ------------------------------------------------------------*/
   a:hover {
@@ -163,5 +163,13 @@ footer {
 
   #contact ul a:hover {
     background-color: #0f949b; } }
+    
+@media (max-width: 768px){
+  .box {
+    height: 250px;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+}}
 
 /*# sourceMappingURL=style.css.map */
