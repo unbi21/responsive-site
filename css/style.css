@@ -47,7 +47,7 @@ a {
 ------------------------------------------------------------*/
 .box {
   background: url(../images/main.jpg);
-  height: 400px;
+  height: 500px;
   width: 100%;
   background-size: cover;
   background-position: center center;
